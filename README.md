@@ -346,7 +346,7 @@ Certificados
 <img width="1006" height="568" alt="imagen" src="https://github.com/user-attachments/assets/19ad8ef3-4b4d-4fbd-81a8-6296a70feef9" />
 
 Robots.txt
-<img width="1006" height="568" alt="imagen" src="https://github.com/user-attachments/assets/e290726c-ac59-44ae-a852-e4ba0347046a" />
+<img width="999" height="92" alt="imagen" src="https://github.com/user-attachments/assets/7e0b3b5a-112a-4d63-b510-2992d3167b2d" />
 
 Código fuente
 <img width="1002" height="262" alt="imagen" src="https://github.com/user-attachments/assets/f3afc2ab-e914-421f-af83-835cfd5efd2b" />
